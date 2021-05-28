@@ -69,4 +69,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Testimonials Grid Page
 
 ![Desktop](https://github.com/bryanAguilar001/testimonial-grid/blob/main/media/desktop.PNG?raw=true)
-![Mobile](https://github.com/bryanAguilar001/testimonial-grid/blob/main/media/mobile.PNG?raw=true)
