@@ -1,4 +1,4 @@
-# [Frontend Mentor - Testimonials grid section]()
+# [Frontend Mentor - Testimonials grid section](https://testimonialgridchallenge.netlify.app/)
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
@@ -28,7 +28,7 @@ npm i
 
 ### Links
 
-- Solution URL: [Testimonials grid page]()
+- Solution URL: [Testimonials grid page](https://testimonialgridchallenge.netlify.app/)
 
 ## My process
 
