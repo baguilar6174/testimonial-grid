@@ -1,0 +1,28 @@
+// Font Family
+$font-family-sans-serif:'Barlow Semi Condensed', sans-serif;
+
+// Change default colors
+$primary:#733FC8;
+$success: #49556B;
+$dark: #18202D;
+$secondary: #EDF2F8;
+
+.background-quotation {
+    background-image: url('../../src/images/bg-pattern-quotation.svg');
+    background-repeat: no-repeat;
+    background-position: 85% top;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: #fff;
+}
+
+.attribution a {
+    color: #fff;
+    font-weight: 300;
+}
+
+// Bootstrap import
+@import "../../node_modules/bootstrap/scss/bootstrap";
