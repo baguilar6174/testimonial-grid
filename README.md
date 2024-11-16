@@ -1,4 +1,4 @@
-# [Frontend Mentor - Testimonials grid section](https://testimonialgridchallenge.netlify.app/)
+# Frontend Mentor - Testimonials grid section
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
@@ -52,21 +52,12 @@ npm i
 - Import and custom Boostrap SCSS
 - Custom bootstrap variables
 
-## Author
-
-- Website - [www.bryan-aguilar.com](https://www.bryan-aguilar.com/)
-- Medium - [baguilar6174](https://baguilar6174.medium.com/)
-- LinkeIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
-- Email - [bryan.aguilar6174@gmail.com](mailto:bryan.aguilar6174@gmail.com)
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Project status
-
-
-
 ## Testimonials Grid Page
 
 ![Desktop](https://github.com/bryanAguilar001/testimonial-grid/blob/main/media/desktop.PNG?raw=true)
+
+## Stay in touch
+
+- Website - [www.bryan-aguilar.com](https://www.bryan-aguilar.com/)
+- Medium - [baguilar6174](https://baguilar6174.medium.com/)
+- LinkeDIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
